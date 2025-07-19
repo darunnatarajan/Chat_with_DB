@@ -1,0 +1,8 @@
+mysql-connector-python
+python-dotenv
+sqlparse
+langchain
+requests
+transformers
+tiktoken
+pandas
